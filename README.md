@@ -30,7 +30,8 @@
 
 ## HƯỚNG DẪN CÀI ĐẶT
 <a name="caidat"></a>
-* B1: 
+* Dataset: https://www.kaggle.com/datasets/phamtheds/news-dataset-vietnameses
+* vietnamese-stopwords.txt: https://github.com/stopwords/vietnamese-stopwords/blob/master/vietnamese-stopwords.txt
 
 
 
